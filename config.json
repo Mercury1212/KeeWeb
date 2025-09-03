@@ -1,0 +1,8 @@
+{
+  "gdrive": {
+    "clientId": "592659175056-6of71k1stfcqj3ja1rvcd5jop0gng3p5.apps.googleusercontent.com"
+  },
+  "dropbox": {
+    "appKey": "YOUR_DROPBOX_APP_KEY"
+  }
+}
